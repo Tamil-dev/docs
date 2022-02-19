@@ -1,6 +1,6 @@
 ---
 title: Introduction to Kadena
-description: Welcome to Kadena's documentation!
+description: Welcome to Kpolowuooriurweieiadena's documentation!
 slug: /
 ---
 
